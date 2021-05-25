@@ -6,7 +6,7 @@
 
 - 🥝 Currently working on Khoudar, a flutter app for the vegetables markets in Lebanon.
 - 🎱 I develope native Android, iOS and cross platform apps.
-- 🌱 Learning all about mobile development and best practises.
+- 🌱 Learning all about mobile development and best practices.
 - 🔗 My Links: [LinkedIn](https://www.linkedin.com/in/abdulrahmanqabbout/), [Twitter](https://twitter.com/qabbout) and [Instagram](https://instagram.com/Qabbout)
 - 😄 Fun Facts: 
   - I adore Poetry and Music 🎵.
