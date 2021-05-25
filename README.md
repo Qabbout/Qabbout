@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Qabbout/Qabbout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Lebanese Mobile Software Enginner, based in Lebanon. 🇱🇧
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥝 Currently working on Khoudar, a flutter app for the vegetables market in lebanon.
+- 🎱 I develope native android and ios apps as well as cross platform apps
+- 🌱 Learning all about mobile development and best practises
+- 🔗 My Links: [LinkedIn](https://www.linkedin.com/in/abdulrahmanqabbout/), [Twitter](https://twitter.com/qabbout) and [Instagram](https://instagram.com/Qabbout)
+- 😄 Fun Facts: 
+  - I adore Poetry and Music 🎵
+  - They call me Stitch
+
+<div align="center">
+<img src="http://24.media.tumblr.com/d86fe6093af11856043bf41ef902465e/tumblr_mnhmqraFSD1rsi6f2o1_400.gif" width="350"></img> 
+<img src="https://i.imgur.com/K3l9iqp.gif" width="316"></img> 
+</div>
