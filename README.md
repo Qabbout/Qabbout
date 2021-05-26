@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 👨‍🎓 BS in Computer Science, planning on MS
+- 👨‍🎓 BS with distinction in Computer Science, planning on MS
 - 🎱 I develope native Android, iOS and cross platform apps.
 - 🥝 Currently working on Khoudar, a flutter app for the vegetables markets in Lebanon.
 - 🌱 Learning all about mobile development.
