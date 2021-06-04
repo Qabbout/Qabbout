@@ -33,11 +33,11 @@
   
 - 📖 **MS Degree in Computer Science - Starting very soon**\
 📆 2022 - Present\
-📍 **Lebanese International University** - Dahr El Ein, Tripoli, Lebanon
+📍 **Lebanese International University** - Dahr El Ein, Lebanon
   
 - 📖 **BS Degree in Computer Science - GPA 3.65**\
 📆 2017 - 2020\
-📍 **Lebanese International University** - Dahr El Ein, Tripoli, Lebanon
+📍 **Lebanese International University** - Dahr El Ein, Lebanon
   
 ## Experience
 ## Skills
