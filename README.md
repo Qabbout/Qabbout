@@ -9,6 +9,7 @@
 
 #### BIO
 
+- 👨‍💻 22
 - 👨‍🎓 BS with distinction in Computer Science, starting an MS
 - 🎱 I develope native Android, iOS and cross platform apps.
 - 🥝 Currently working on Khoudar, a flutter app for the vegetables markets in Lebanon.
