@@ -10,7 +10,7 @@
 #### BIO
 
 - 👨‍💻 22
-- 👨‍🎓 BS with distinction in Computer Science, starting an MS
+- 👨‍🎓 BS with distinction in Computer Science, starting an MS in Computer Science
 - 🎱 I develope native Android, iOS and cross platform apps.
 - 🥝 Currently working on Khoudar, a flutter app for the vegetables markets in Lebanon.
 - 🌱 Learning all about mobile development.
@@ -30,15 +30,14 @@
 
 
 ## Education
-
-- 📖 **BS Degree in Computer Science - GPA 3.65**\
-📆 2017 - 2020\
-📍 **Lebanese International University** - Dahr El Ein, Tripoli, Lebanon
- 
+  
 - 📖 **MS Degree in Computer Science - Starting very soon**\
 📆 2022 - Present\
 📍 **Lebanese International University** - Dahr El Ein, Tripoli, Lebanon
-
+  
+- 📖 **BS Degree in Computer Science - GPA 3.65**\
+📆 2017 - 2020\
+📍 **Lebanese International University** - Dahr El Ein, Tripoli, Lebanon
   
 ## Experience
 ## Skills
