@@ -1,7 +1,6 @@
 ## <div align="center">Hi there 👋, I'm *Abdulrahman*</div>
-
 ### <div align="center">A Mobile Software Enginner based in Lebanon 🇱🇧.</div>
-<br><div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<span></span><div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://linkedin.com/in/abdulrahmanqabbout) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:abdulrahman.qabbout@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/qabbout) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -9,14 +8,14 @@
 
 #### BIO
 
-- 👨‍💻 22
-- 👨‍🎓 BS degree with distinction in Computer Science, starting an MS degree in Computer Science
+- 👨‍💻 22.
+- 👨‍🎓 BS degree with distinction in Computer Science, starting an MS degree in Computer Science soon.
 - 🎱 I develope native Android, iOS and cross platform apps.
 - 🥝 Currently working on Khoudar, a flutter app for the vegetables markets in Lebanon.
 - 🌱 Learning all about mobile development.
 - 😄 Fun Facts: 
-  - I adore Music 🎵 and Arabic Poetry 📖
-  - Volunteer at Lebanese Red Cross 🚑 ❤️
+  - I adore music 🎵, Arabic Poetry 📖 and I write Arabic Poems too ✍️
+  - Volunteer at Lebanese Red Cross 🚑 ❤️ since 2017 📆
   - They call me Stitch 👽
 
 <div align="center">
@@ -31,18 +30,38 @@
 
 ## Education
   
-- 📖 **MS Degree in Computer Science - Starting very soon**\
-📆 2022 - Present\
-📍 **Lebanese International University** - Dahr El Ein, Lebanon
+- 📖 **MS Degree in Computer Science** - Starting very soon
   
-- 📖 **BS Degree in Computer Science - GPA 3.65**\
-📆 2017 - 2020\
-📍 **Lebanese International University** - Dahr El Ein, Lebanon
+  📆 2021 - Present
+  
+  📍 Lebanese International University - Dahr El Ein, Lebanon
+  
+  <hr>
+  
+- 📖 **BS Degree in Computer Science** - GPA 3.65
+  
+  📆 2017 - 2020
+  
+  📍 Lebanese International University - Dahr El Ein, Lebanon
   
 ## Experience
+  
+- 👨‍💻 **Mobile Software Engineer**
+  
+  📆 2021 - Present
+  
+  📍 Tecware International - Tripoli, Lebanon
+  
+  <hr>
+
+- 📑 **Head of Information Technology**
+  
+  📆 2018 - 2020
+  
+  📍 Lebanese Red Cross - Tripoli, Lebanon
+
 ## Skills
 ## Cerificates
-## Volunteering
 ## Hobbies
 </details>
 
