@@ -1,5 +1,5 @@
 ## <div align="center">Hi there 👋, I'm *Abdulrahman*</div>
-### <div align="center">A Mobile Software Enginner based in Lebanon 🇱🇧.</div>
+### <div align="center">A Software Enginner with passion for developing applications that make a positive impact on peoples lives.</div>
 <span></span><div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://linkedin.com/in/abdulrahmanqabbout) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:abdulrahman.qabbout@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
