@@ -1,5 +1,5 @@
 ## <div align="center">Hi there 👋, I'm *Abdulrahman*</div>
-### <div align="center">A Software Enginner with passion for developing applications that make a positive impact on peoples lives.</div>
+### <div align="center">A Mobile Software Enginner with passion for developing applications that make a positive impact on peoples lives.</div>
 <span></span><div align="center"> 
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -33,7 +33,7 @@
 
 <br>
 <details>
-  <summary>📃 Resume</summary>
+  <summary align="center">📃 Resume</summary>
 
 
 ## Education
@@ -44,7 +44,7 @@
   
   📍 Lebanese International University - Dahr El Ein, Lebanon
   
-  <hr>
+  ##
   
 - 📖 **BS Degree in Computer Science** - GPA 3.65
   
@@ -60,7 +60,7 @@
   
   📍 Tecware International - Tripoli, Lebanon
   
-  <hr>
+  ##
 
 - 📑 **Head of Information Technology**
   
@@ -70,7 +70,8 @@
 
 ## Skills
   
-  <span></span><div align="center"><p> **Languages / Frameworks / Libraries I (use / have used):**</p>
+  <span></span><div align="center"><p> **Languages / Frameworks / Libraries I use / have used:**</p>
+  
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -106,6 +107,7 @@
   <br>
   
   <span></span><p> **Others:**</p>
+  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
   ![Intellij](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -128,29 +130,29 @@
   
   - **CCNA Routing and Switching: Introduction to Networks** *(with letter)* / 2019 - Present
   
-    🔼 Cisco Networking Aacdemy
+    **<p align="center"> 🔼 Cisco Networking Aacdemy </p>**
   
-  <hr>
+  ##
     
-  - **Dart: Advanced Course** / 2021 - Present
+  - **Dart: Advanced Course** / 2.5 total hours/ 2021 - Present
   
-  - **Dart: Intermediate Course** / 2021 - Present
+  - **Dart: Intermediate Course** / 2 total hours / 2021 - Present
   
-  - **Dart: Beginners Course** / 2021 - Present
+  - **Dart: Beginners Course** / 2 total hours / 2021 - Present
   
-  - **Flutter: Advanced Course** / 2021 - Present
+  - **Flutter: Advanced Course** / 5 total hours /2021 - Present
   
-  - **Flutter: Intermediate Course** / 2021 - Present
+  - **Flutter: Intermediate Course** / 3.5 total hours / 2021 - Present
   
-  - **Flutter: Beginners Course** / 2021 - Present
+  - **Flutter: Beginners Course** / 2 total hours / 2021 - Present
   
-  - **The Complete React Native from Zero to Hero** / 2020 - Present
+  - **The Complete React Native from Zero to Hero** / 12 total hours / 2020 - Present
   
-  - **Modern Web Scraping with python** / 2021 - Present
+  - **Modern Web Scraping with python** / 3.5 total hours / 2021 - Present
   
-    🔼 Udemy
+  **<p align="center"> 🔼 Udemy </p>**
   
-  <hr>
+  ##
     
   - **Mission Leader** / 2020 - Present
   
@@ -158,7 +160,7 @@
   
   - **First Responder** 2018 - Present
   
-    🔼 Lebanese Red Cross
+  **<p align="center"> 🔼 Lebanese Red Cross </p>**
   
 ## Hobbies
   
@@ -171,4 +173,5 @@
   
 </details>
 
+### <div align="center"><i> ~ Memento Mori ~ <i></div>
   
