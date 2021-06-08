@@ -10,8 +10,7 @@
   )](https://twitter.com/qabbout)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
   )](https://instagram.com/qabbout)
-  [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white
-  )](https://dev.to/qabbout)
+  
   
 </div>
 
@@ -71,7 +70,7 @@
 
 ## Skills
   
-  <span></span><div align="center"><p> **Languages / Frameworks / Libraries:**</p>
+  <span></span><div align="center"><p> **Languages / Frameworks / Libraries I (use / have used):**</p>
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -113,11 +112,149 @@
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+  ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
   
   </div>
   
 ## Cerificates
+  
+  - 👨‍💻 **CCNA Routing and Switching: Connecting Networks**
+  
+    ◼️ Cisco Networking Aacdemy
+  
+    📆 2020 - Present
+  
+  <hr>
+    
+  - 👨‍💻 **CCNA Routing and Switching: Scaling Networks** *(with letter)*
+  
+    ◼️ Cisco Networking Aacdemy
+  
+    📆 2019 - Present
+  
+  <hr>
+    
+  - 👨‍💻 **CCNA Routing and Switching: Routing and Switching Essentials** *(with letter)*
+  
+    ◼️ Cisco Networking Aacdemy
+  
+    📆 2020 - Present
+  
+  <hr>
+    
+  - 👨‍💻 **CCNA Routing and Switching: Introduction to Networks** *(with letter)*
+  
+    ◼️ Cisco Networking Aacdemy
+  
+    📆 2020 - Present
+  
+  <hr>
+    
+  - 👨‍💻 **CCNA Routing and Switching: Connecting Networks**
+  
+    ◼️ Cisco Networking Aacdemy
+  
+    📆 2020 - Present
+  
+  <hr>
+    
+  - 👨‍💻 **Dart: Advanced Course**
+  
+    ◼️ Udemy
+  
+    📆 2021 - Present
+  
+  <hr>
+    
+  - 👨‍💻 **Dart: Intermediate Course**
+  
+    ◼️ Udemy
+  
+    📆 2021 - Present
+  
+  <hr>
+    
+  - 👨‍💻 **Dart: Beginners Course**
+  
+    ◼️ Udemy
+  
+    📆 2021 - Present
+  
+  <hr>
+    
+  - 👨‍💻 **Flutter: Advanced Course**
+  
+    ◼️ Udemy
+  
+    📆 2021 - Present
+  
+  <hr>
+      
+  - 👨‍💻 **Flutter: Intermediate Course**
+  
+    ◼️ Udemy
+  
+    📆 2021 - Present
+  
+  <hr>    
+  
+  - 👨‍💻 **Flutter: Beginners Course**
+  
+    ◼️ Udemy
+  
+    📆 2021 - Present
+  
+  <hr>  
+  
+  - 👨‍💻 **The Complete React Native from Zero to Hero**
+  
+    ◼️ Udemy
+  
+    📆 2020 - Present
+  
+  <hr>  
+  
+  - 👨‍💻 **Modern Web Scraping with python**
+  
+    ◼️ Udemy
+  
+    📆 2021 - Present
+  
+  <hr>   
+  
+  - 👨‍💻 **Mission Leader**
+  
+    ◼️ Lebanese Red Cross
+  
+    📆 2020 - Present
+  
+  <hr>
+  
+  - 👨‍💻 **Emergency Medical Technician (EMT)**
+  
+    ◼️ Lebanese Red Cross
+  
+    📆 2019- Present
+  
+  <hr>    
+  
+  - 👨‍💻 **First Responder**
+  
+    ◼️ Lebanese Red Cross
+  
+    📆 2018 - Present
+  
 ## Hobbies
+  
+  - Reading Books
+  - Collecting Books
+  - Learning New Skills
+  - Learning Languages
+  - Watching Anime
+  - Writing Poems in Arabic
+  
 </details>
 
   
