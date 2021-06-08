@@ -120,131 +120,45 @@
   
 ## Cerificates
   
-  - 👨‍💻 **CCNA Routing and Switching: Connecting Networks**
+  - **CCNA Routing and Switching: Connecting Networks** / 2020 - Present
   
-    ◼️ Cisco Networking Aacdemy
+  - **CCNA Routing and Switching: Scaling Networks** *(with letter)* / 2020 - Present
   
-    📆 2020 - Present
+  - **CCNA Routing and Switching: Routing and Switching Essentials** *(with letter)* / 2019 - Present
   
-  <hr>
-    
-  - 👨‍💻 **CCNA Routing and Switching: Scaling Networks** *(with letter)*
+  - **CCNA Routing and Switching: Introduction to Networks** *(with letter)* / 2019 - Present
   
-    ◼️ Cisco Networking Aacdemy
-  
-    📆 2019 - Present
+    🔼 Cisco Networking Aacdemy
   
   <hr>
     
-  - 👨‍💻 **CCNA Routing and Switching: Routing and Switching Essentials** *(with letter)*
+  - **Dart: Advanced Course** / 2021 - Present
   
-    ◼️ Cisco Networking Aacdemy
+  - **Dart: Intermediate Course** / 2021 - Present
   
-    📆 2020 - Present
+  - **Dart: Beginners Course** / 2021 - Present
   
-  <hr>
-    
-  - 👨‍💻 **CCNA Routing and Switching: Introduction to Networks** *(with letter)*
+  - **Flutter: Advanced Course** / 2021 - Present
   
-    ◼️ Cisco Networking Aacdemy
+  - **Flutter: Intermediate Course** / 2021 - Present
   
-    📆 2020 - Present
+  - **Flutter: Beginners Course** / 2021 - Present
   
-  <hr>
-    
-  - 👨‍💻 **CCNA Routing and Switching: Connecting Networks**
+  - **The Complete React Native from Zero to Hero** / 2020 - Present
   
-    ◼️ Cisco Networking Aacdemy
+  - **Modern Web Scraping with python** / 2021 - Present
   
-    📆 2020 - Present
+    🔼 Udemy
   
   <hr>
     
-  - 👨‍💻 **Dart: Advanced Course**
+  - **Mission Leader** / 2020 - Present
   
-    ◼️ Udemy
+  - **Emergency Medical Technician (EMT)** 2019 - Present
   
-    📆 2021 - Present
+  - **First Responder** 2018 - Present
   
-  <hr>
-    
-  - 👨‍💻 **Dart: Intermediate Course**
-  
-    ◼️ Udemy
-  
-    📆 2021 - Present
-  
-  <hr>
-    
-  - 👨‍💻 **Dart: Beginners Course**
-  
-    ◼️ Udemy
-  
-    📆 2021 - Present
-  
-  <hr>
-    
-  - 👨‍💻 **Flutter: Advanced Course**
-  
-    ◼️ Udemy
-  
-    📆 2021 - Present
-  
-  <hr>
-      
-  - 👨‍💻 **Flutter: Intermediate Course**
-  
-    ◼️ Udemy
-  
-    📆 2021 - Present
-  
-  <hr>    
-  
-  - 👨‍💻 **Flutter: Beginners Course**
-  
-    ◼️ Udemy
-  
-    📆 2021 - Present
-  
-  <hr>  
-  
-  - 👨‍💻 **The Complete React Native from Zero to Hero**
-  
-    ◼️ Udemy
-  
-    📆 2020 - Present
-  
-  <hr>  
-  
-  - 👨‍💻 **Modern Web Scraping with python**
-  
-    ◼️ Udemy
-  
-    📆 2021 - Present
-  
-  <hr>   
-  
-  - 👨‍💻 **Mission Leader**
-  
-    ◼️ Lebanese Red Cross
-  
-    📆 2020 - Present
-  
-  <hr>
-  
-  - 👨‍💻 **Emergency Medical Technician (EMT)**
-  
-    ◼️ Lebanese Red Cross
-  
-    📆 2019- Present
-  
-  <hr>    
-  
-  - 👨‍💻 **First Responder**
-  
-    ◼️ Lebanese Red Cross
-  
-    📆 2018 - Present
+    🔼 Lebanese Red Cross
   
 ## Hobbies
   
