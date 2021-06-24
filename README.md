@@ -71,7 +71,7 @@
 
 ## Skills
   
-  <span></span><div align="center"><p> **Languages / Frameworks / Libraries I use / have used:**</p>
+  <span></span><div align="center"><p> **Languages / Frameworks / Libraries I use/have used:**</p>
   
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
