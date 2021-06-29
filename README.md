@@ -34,7 +34,7 @@
 <br>
 <details>
  
- <summary align="center">📃 Resume</summary>
+ <summary align="center">📃 GitHub Resume</summary>
 
 
 ## Education
