@@ -166,11 +166,11 @@
   
 ## Hobbies
   
-  - Reading Books
+  - Reading Books, Preferably Psychological Ones
   - Collecting Books
-  - Learning New Skills
-  - Learning Languages
-  - Watching Anime
+  - Aquiring New Skills and Learning New Stuffs
+  - Learning Languages, Like Japanese, Russian, Spanish..
+  - Watching Anime and Reading Manga
   - Writing Poems in Arabic
   
 </details>
