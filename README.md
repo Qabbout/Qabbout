@@ -124,7 +124,7 @@
   
 ## Cerificates
   
-  - **CCNA Routing and Switching: Connecting Networks** / 2020 - Present
+  - **CCNA Routing and Switching: Connecting Networks** *(with letter)* / 2020 - Present
   
   - **CCNA Routing and Switching: Scaling Networks** *(with letter)* / 2020 - Present
   
