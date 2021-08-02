@@ -22,7 +22,7 @@
 - 🥝 Currently working on Khoudar, a flutter app for the vegetables markets in Lebanon.
 - 🌱 Learning all about mobile development.
 - 😄 Fun Facts: 
-  - I adore music 🎵, Arabic Poetry 📖 and I write Arabic Poems too ✍️
+  - I adore music 🎵, Arabic Poetry and Books 📖 and I sometimes write Arabic Poems too ✍️
   - Volunteer at Lebanese Red Cross 🚑 ❤️ since early 2018 📆
   - They call me Stitch 👽
 
