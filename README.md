@@ -136,6 +136,8 @@
   
   ##
     
+  - **Flutter & Dart - The Complete Guide [Arabic Edition]** / 59.5 total hours / 2021 - Present
+  
   - **Dart: Advanced Course** / 2.5 total hours/ 2021 - Present
   
   - **Dart: Intermediate Course** / 2 total hours / 2021 - Present
