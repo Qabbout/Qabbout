@@ -18,7 +18,7 @@
 
 - 👨‍💻 22.
 - 👨‍🎓 BS degree with distinction in Computer Science, starting an MS degree in Computer Science soon.
-- 🎱 I develope native Android, iOS and cross platform apps.
+- 🎱 I develope native Android, iOS and cross platform applications.
 - 🌱 Learning all about mobile development.
 - 😄 Fun Facts: 
   - I adore music 🎵, Arabic Poetry and Books 📖 and I sometimes write Arabic Poems too ✍️
