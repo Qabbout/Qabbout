@@ -136,7 +136,9 @@
   
   ##
   
-  - **Body Language: Appear Confident and Poised When You Speak** / 1 total hours / 20201 - Present
+  - **Clean Code** / 6.5 total hours / 2021 - Present
+  
+  - **Body Language: Appear Confident and Poised When You Speak** / 1 total hours / 2021 - Present
   
   - **Flutter & Dart - The Complete Guide [Arabic Edition]** / 59.5 total hours / 2021 - Present
   
