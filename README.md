@@ -1,4 +1,4 @@
-## <div align="center">Hi there 👋, I'm *Abdulrahman*</div>
+## <div align="center">Hi there 👋, It's *Abdulrahman*</div>
 ### <div align="center">A Mobile Software Enginner with passion for developing applications that make a positive impact on peoples lives.</div>
 <span></span><div align="center"> 
   
@@ -10,6 +10,11 @@
   )](https://twitter.com/qabbout)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
   )](https://instagram.com/qabbout)
+  [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+  )](https://stackoverflow.com/users/12858507/stitch)
+  [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white
+  )](https://www.goodreads.com/user/show/47160073-abdulrahman)
+  
   
   
 </div>
