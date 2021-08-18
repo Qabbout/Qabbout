@@ -135,6 +135,12 @@
   
   ##
   
+  - **Getting Started with Python for Data Science** / 2021 - Present
+  
+    **<p align="center"> 🔼 ZAKA AI </p>**
+  
+  ##
+  
   - **Clean Code** / 6.5 total hours / 2021 - Present
   
   - **Body Language: Appear Confident and Poised When You Speak** / 1 total hours / 2021 - Present
