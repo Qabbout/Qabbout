@@ -1,4 +1,4 @@
-## <div align="center">Hi there 👋, It's *Abdulrahman*</div>
+## <div align="center">Hi 👋, It's *Abdulrahman*</div>
 ### <div align="center">A Mobile Software Enginner with passion for developing applications that make a positive impact on peoples lives.</div>
 <span></span><div align="center"> 
   
