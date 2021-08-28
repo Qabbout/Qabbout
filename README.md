@@ -13,7 +13,7 @@
   [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
   )](https://stackoverflow.com/users/12858507/stitch)
   [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white
-  )](https://www.goodreads.com/user/show/47160073-abdulrahman)
+  )](https://www.goodreads.com/qabbout)
   
   
   
