@@ -43,15 +43,7 @@
 
 ## Education
   
-- 📖 **MS Degree in Computer Science** - Starting very soon
-  
-  📆 2021 - Present
-  
-  📍 Lebanese International University - Dahr El Ein, Lebanon
-  
-  ##
-  
-- 📖 **BS Degree in Computer Science** - GPA 3.65
+- 📖 **BS Degree in Computer Science with Distinction** - GPA 3.65
   
   📆 2017 - 2020
   
@@ -138,11 +130,17 @@
   
     **<p align="center"> 🔼 Cisco Networking Aacdemy </p>**
   
+   ##
+  
+  - **M112: Diagnostic Thinking** / 2021 - Present
+  
+    **<p align="center"> 🔼 MongoDB University </p>**
+  
   ##
   
   - **Getting Started with Python for Data Science** / 2021 - Present
   
-    **<p align="center"> 🔼 ZAKA </p>**
+    **<p align="center"> 🔼 ZAKA AI </p>**
   
   ##
   
