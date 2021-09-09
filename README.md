@@ -140,6 +140,8 @@
   
   ##
   
+  - **Artificial Intelligence Bootcamp** / 2021 - Present
+  
   - **Getting Started with Python for Data Science** / 2021 - Present
   
     **<p align="center"> 🔼 ZAKA AI </p>**
