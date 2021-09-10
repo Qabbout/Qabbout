@@ -144,7 +144,7 @@
   
   - **Getting Started with Python for Data Science** / 2021 - Present
   
-    **<p align="center"> 🔼 ZAKA AI </p>**
+    **<p align="center"> 🔼 ZAKA</p>**
   
   ##
   
