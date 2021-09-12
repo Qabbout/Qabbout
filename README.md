@@ -38,7 +38,7 @@
 <br>
 <details>
  
- <summary align="center">📃 GitHub Resume</summary>
+ <summary align="center">📃 My GitHub Resume</summary>
 
 
 ## Education
@@ -132,11 +132,25 @@
   
     **<p align="center"> 🔼 Cisco Networking Aacdemy </p>**
   
-   ##
+  <div align="center"><img src="https://cdn.freebiesupply.com/images/large/2x/cisco-logo-transparent.png" width="20%" height="20%"></img><div>
+  
+  ##
+  
+  - **Strategic Thinking 101: Problem Solving** / 2021 - Present
+  
+    **<p align="center"> 🔼 Abdulla Al Ghurair Foundation for Education </p>**
+  
+  <div align="center"><img src="https://youngthinker.org/themes/custom/ytp_barrio/images/agfe-logo-wide-en.png" height="50%" width="50%"></img><div>
+  
+  
+  
+  ##
   
   - **M112: Diagnostic Thinking** / 2021 - Present
   
     **<p align="center"> 🔼 MongoDB University </p>**
+  
+  <div align="center"><img src="https://theme.zdassets.com/theme_assets/215697/67a5dadc8b67a5629ff02414169545a068fb40ba.png" height="35%" width="35%"></img><div>
   
   ##
   
@@ -145,6 +159,9 @@
   - **Getting Started with Python for Data Science** / 2021 - Present
   
     **<p align="center"> 🔼 ZAKA</p>**
+  
+    <div align="center"><img src="https://beirutai.org/wp-content/uploads/2020/07/Webp.net-resizeimage.png" height="35%" width="35%"></img><div>
+
   
   ##
   
@@ -172,6 +189,8 @@
   
   **<p align="center"> 🔼 Udemy </p>**
   
+  <div align="center"><img src="https://www.freelogovectors.net/wp-content/uploads/2021/08/udemylogo-freelogovectors.net_.png" height="35%" width="35%"></img><div>
+  
   ##
     
   - **Mission Leader** / 2020 - Present
@@ -181,6 +200,10 @@
   - **First Responder** 2018 - Present
   
   **<p align="center"> 🔼 Lebanese Red Cross </p>**
+  
+  <div align="center"><img src="https://i0.wp.com/www.redcross.org.lb/wp-content/uploads/2019/04/logo.png" height="10%" width="10%"></img><div>
+
+  
   
 ## Hobbies
   
