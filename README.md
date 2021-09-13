@@ -49,6 +49,8 @@
   
   📍 Lebanese International University - Dahr El Ein, Lebanon
   
+   <div align="center"><img src="http://liu.edu.lb/lb/Web%20slices/Logo2.png" height="20%" width="20%"></img><div>
+  
 ## Experience
   
 - 👨‍💻 **Mobile Software Engineer**
@@ -57,6 +59,8 @@
   
   📍 Tecware International - Tripoli, Lebanon
   
+   <div align="center"><img src="https://tecware.org/templates/ezwebhosting/images/s5_logo.png" height="10%" width="10%"></img><div>
+  
   ##
 
 - 📑 **Head of Information Technology**
@@ -64,6 +68,8 @@
   📆 2018 - 2020
   
   📍 Lebanese Red Cross - Tripoli, Lebanon
+  
+  <div align="center"><img src="https://i0.wp.com/www.redcross.org.lb/wp-content/uploads/2019/04/logo.png" height="10%" width="10%"></img><div>
 
 ## Skills
   
@@ -151,6 +157,16 @@
     **<p align="center"> 🔼 MongoDB University </p>**
   
   <div align="center"><img src="https://theme.zdassets.com/theme_assets/215697/67a5dadc8b67a5629ff02414169545a068fb40ba.png" height="35%" width="35%"></img><div>
+  
+  ##
+    
+  - **Programming Foundations: Fundamentals** / 2021 - Present
+  
+  - **Programming Foundations: Databases** / 2021 - Present
+  
+    **<p align="center"> 🔼 LinkedIn Learning </p>**
+  
+  <div align="center"><img src="https://www.aivancity.ai/sites/default/files/2020-09/linkedinlearning.png" height="35%" width="35%"></img><div>
   
   ##
   
