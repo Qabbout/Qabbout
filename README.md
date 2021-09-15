@@ -206,7 +206,7 @@
   
   **<p align="center"> 🔼 Udemy </p>**
   
-  <div align="center"><img src="https://www.freelogovectors.net/wp-content/uploads/2021/08/udemylogo-freelogovectors.net_.png" height="35%" width="35%"></img><div>
+  <div align="center"><img src="https://www.freelogovectors.net/wp-content/uploads/2021/08/udemylogo-freelogovectors.net_.png" height="25%" width="25%"></img><div>
   
   ##
     
