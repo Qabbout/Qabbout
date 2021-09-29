@@ -161,7 +161,7 @@
   
   ##
   
-  - **Becoming an ally to all** / 2021 - Present
+  - **Becoming an Ally to All** / 2021 - Present
   
   - **Body Language for Leaders** / 2021 - Present
   
