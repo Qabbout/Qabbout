@@ -22,7 +22,7 @@
 #### BIO
 
 - 👨‍💻 22.
-- 👨‍🎓 BS degree with distinction in Computer Science, starting an MS degree in Computer Science soon.
+- 👨‍🎓 BS degree with distinction in Computer Science.
 - 🎱 I develope native Android, iOS and cross platform applications.
 - 🌱 Learning all about mobile development.
 - 😄 Fun Facts: 
@@ -160,6 +160,14 @@
   <div align="center"><img src="https://theme.zdassets.com/theme_assets/215697/67a5dadc8b67a5629ff02414169545a068fb40ba.png" height="35%" width="35%"></img><div>
   
   ##
+  
+  - **Becoming an ally to all** / 2021 - Present
+  
+  - **Body Language for Leaders** / 2021 - Present
+  
+  - **Critical Thinking for Better Judgment and Decision-Making** / 2021 - Present
+  
+  - **Digital Body Langauge** / 2021 - Present
     
   - **Programming Foundations: Fundamentals** / 2021 - Present
   
@@ -219,10 +227,13 @@
   **<p align="center"> 🔼 Lebanese Red Cross </p>**
   
   <div align="center"><img src="https://i0.wp.com/www.redcross.org.lb/wp-content/uploads/2019/04/logo.png" height="10%" width="10%"></img><div>
-
   
+  <div align="left">
   
-## Hobbies
+##  Hobbies
+    
+</div>  
+  
   
   - Reading Books, Preferably Psychological Ones
   - Collecting Books
@@ -230,6 +241,8 @@
   - Learning Languages, Like Japanese, Russian, Spanish..
   - Watching Anime and Reading Manga
   - Writing Poems in Arabic
+    
+
   
 </details>
 
