@@ -1,5 +1,5 @@
 ## <div align="center">Hi 👋, It's *Abdulrahman*</div>
-### <div align="center">A Mobile Software Enginner with passion for developing applications that make a positive impact on peoples lives.</div>
+### <div align="center">A Mobile Software Engineer with passion for developing applications that make a positive impact on peoples lives.</div>
 <span></span><div align="center"> 
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
