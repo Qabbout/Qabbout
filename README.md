@@ -136,7 +136,7 @@
   
   - **CCNA Routing and Switching: Introduction to Networks** *(with letter)* / 2019 - Present
   
-    **<p align="center"> 🔼 Cisco Networking Aacdemy </p>**
+    **<p align="center"> 🔼 Cisco Networking Academy </p>**
   
   <br>
   <div align="center"><img src="https://cdn.freebiesupply.com/images/large/2x/cisco-logo-transparent.png" width="20%" height="20%"></img><div>
