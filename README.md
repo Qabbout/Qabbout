@@ -24,7 +24,7 @@
 - 👨‍💻 22.
 - 👨‍🎓 BS degree with distinction in Computer Science.
 - 🎱 I develope native iOS, Android and cross platform applications.
-- 🌱 Learning all about mobile development.
+- 🌱 Learning all about mobile development, mainly iOS.
 - 😄 Fun Facts: 
   - I adore music 🎵, Arabic Poetry and Books 📖 and I sometimes write Arabic Poems too ✍️
   - Volunteer at Lebanese Red Cross 🚑 ❤️ since early 2018 📆
