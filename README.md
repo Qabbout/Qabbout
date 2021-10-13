@@ -43,7 +43,7 @@
 
 ## Education
   
-- 📖 **BS Degree in Computer Science with Distinction** - GPA 3.65
+- 📖 **BS Degree in Computer Science ** - GPA 3.65
   
   📆 2017 - 2020
   
