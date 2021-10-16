@@ -161,6 +161,8 @@
   
   ##
   
+  - **Swift 5 Essential Training** / 2021 - Present
+  
   - **The Secret to Better Decisions: Stop Hoarding Chips** / 2021 - Present
   
   - **Becoming an Ally to All** / 2021 - Present
