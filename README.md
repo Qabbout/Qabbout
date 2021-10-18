@@ -26,7 +26,7 @@
 - 🎱 I develope native iOS, Android and cross platform applications.
 - 🌱 Learning all about mobile development, mainly iOS.
 - 😄 Fun Facts: 
-  - I adore music 🎵, Arabic Poetry and Books 📖 and I sometimes write Arabic Poems too ✍️
+  - I adore music 🎵, Arabic Poetry and Books 📖 and sometimes I write Arabic poems too ✍️
   - Volunteer at Lebanese Red Cross 🚑 ❤️ since early 2018 📆
   - They call me Stitch 👽
 
