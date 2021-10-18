@@ -161,6 +161,8 @@
   
   ##
   
+  - **Swift: Delegations and Data Sources** / 2021 - Present
+  
   - **Swift 5 Essential Training** / 2021 - Present
   
   - **The Secret to Better Decisions: Stop Hoarding Chips** / 2021 - Present
