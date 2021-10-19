@@ -161,6 +161,8 @@
   
   ##
   
+  - **Swift 5: Protocol-Oriented Programming** / 2021 - Present
+  
   - **Swift: Delegations and Data Sources** / 2021 - Present
   
   - **Swift 5 Essential Training** / 2021 - Present
