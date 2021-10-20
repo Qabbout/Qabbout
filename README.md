@@ -162,6 +162,8 @@
   
   ##
   
+  - **Master Swift** (Learning Path) / 2021 - Present
+  
   - **Learning Realm for iOS App Development** / 2021 - Present
   
   - **Swift 5: Protocol-Oriented Programming** / 2021 - Present
