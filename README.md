@@ -162,6 +162,8 @@
   
   ##
   
+  - **Machine Learning for iOS: Core ML and Create ML** / 2021 - Present
+  
   - **Master Swift** (Learning Path) / 2021 - Present
   
   - **Learning Realm for iOS App Development** / 2021 - Present
