@@ -162,6 +162,8 @@
   
   ##
   
+  - **Programming Foundations: Fuzzy Logic** / 2021 - Present
+  
   - **Become an iOS 13 App Developer** (Learning Path) / 2021 - Present
   
   - **iOS 14 Development Essential Training** / 2021 - Present
