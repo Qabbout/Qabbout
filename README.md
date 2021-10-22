@@ -162,6 +162,8 @@
   
   ##
   
+  - **iOS 14 Development Essential Training** / 2021 - Present
+  
   - **Machine Learning for iOS: Core ML and Create ML** / 2021 - Present
   
   - **Master Swift** (Learning Path) / 2021 - Present
