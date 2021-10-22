@@ -162,6 +162,8 @@
   
   ##
   
+  - **Learning Functional Programming with Swift** / 2021 - Present
+  
   - **Learning Higher-Order Functions with Swift** / 2021 - Present
   
   - **iOS Development: Threading and Grand Central Dispatch** / 2021 - Present
