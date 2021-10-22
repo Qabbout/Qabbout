@@ -162,6 +162,8 @@
   
   ##
   
+  - **iOS Development: Threading and Grand Central Dispatch** / 2021 - Present
+  
   - **Programming Foundations: Fuzzy Logic** / 2021 - Present
   
   - **Become an iOS 13 App Developer** (Learning Path) / 2021 - Present
