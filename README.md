@@ -27,7 +27,7 @@
 - 🌱 Learning all about mobile development, mainly iOS and Flutter.
 - 😄 Fun Facts: 
   - I adore music 🎵, Arabic Poetry and Books 📖 and sometimes I write Arabic poems too ✍️
-  - Volunteer at Lebanese Red Cross 🚑 ❤️ since early 2018 📆
+  - Head of Mission at Lebanese Red Cross 🚑 ❤️ volunteering since early 2018 📆
   - They call me Stitch 👽
 
 <div align="center">
