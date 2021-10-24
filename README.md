@@ -162,6 +162,8 @@
   
   ##
   
+  - **Building Resilience** / 2021 - Present
+  
   - **Build an iOS Application** (Learning Path) / 2021 - Present
   
   - **Learning to Be Approachable** / 2021 - Present
