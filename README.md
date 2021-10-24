@@ -162,6 +162,8 @@
   
   ##
   
+  - **Managing Your Career as an Introvert** / 2021 - Present
+  
   - **Building Resilience** / 2021 - Present
   
   - **Build an iOS Application** (Learning Path) / 2021 - Present
