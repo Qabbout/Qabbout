@@ -162,6 +162,8 @@
   
   ##
   
+  - **Communicating Across Cultures** / 2021 - Present
+  
   - **Blockchain Programming in iOS Using Swift** / 2021 - Present
   
   - **Managing Your Career as an Introvert** / 2021 - Present
