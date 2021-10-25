@@ -127,7 +127,7 @@
   
   </div>
   
-## Cerificates
+## Certificates
   
   - **CCNA Routing and Switching: Connecting Networks** *(with letter)* / 2020 - Present
   
@@ -161,6 +161,8 @@
   <div align="center"><img src="https://theme.zdassets.com/theme_assets/215697/67a5dadc8b67a5629ff02414169545a068fb40ba.png" height="35%" width="35%"></img><div>
   
   ##
+  
+  - **Blockchain Programming in iOS Using Swift** / 2021 - Present
   
   - **Managing Your Career as an Introvert** / 2021 - Present
   
