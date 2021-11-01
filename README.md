@@ -55,7 +55,7 @@
   
 - 👨‍💻 **Mobile Software Engineer**
   
-  📆 2021 - Present
+  📆 2020 - Present
   
   📍 Tecware International - Tripoli, Lebanon
   
