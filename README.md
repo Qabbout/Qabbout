@@ -1,5 +1,5 @@
 ## <div align="center">Hi 👋, It's *Abdulrahman*</div>
-### <div align="center">A Mobile Software Engineer with a passion for developing applications that make a positive impact on people's lives.</div>
+### <div align="center">A Lebanese Mobile Software Engineer with a passion for developing applications that make a positive impact on people's lives.</div>
 <span></span><div align="center"> 
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -24,7 +24,7 @@
 - 👨‍💻 22.
 - 👨‍🎓 BS degree with distinction in Computer Science.
 - 🎱 I develope native iOS, Android and cross platform applications.
-- 👀 Currently looking for job as an iOS Engineer. Feel free to <a href="mailto:abdulrahman.qabbout@gmail.com">contact me</a>
+- 👀 Currently looking for job as an iOS Engineer. Feel free to [email me](mailto:abdulrahman.qabbout@gmail.com).
 - 🌱 Learning all about mobile development, mainly iOS and Flutter.
 - 😄 Fun Facts: 
   - I adore music 🎵, Arabic Poetry and Books 📖 and sometimes I write Arabic poems too ✍️
