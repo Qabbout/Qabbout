@@ -162,6 +162,8 @@
   
   ##
   
+  - **iOS Development: Architecture** / 2021 - Present
+  
   - **Communicating Across Cultures** / 2021 - Present
   
   - **Blockchain Programming in iOS Using Swift** / 2021 - Present
