@@ -24,6 +24,7 @@
 - 👨‍💻 22.
 - 👨‍🎓 BS degree with distinction in Computer Science.
 - 🎱 I develope native iOS, Android and cross platform applications.
+- 👀 Currently looking for job as an iOS Engineer. Feel free to <a href="mailto:abdulrahman.qabbout@gmail.com">contact me</a>
 - 🌱 Learning all about mobile development, mainly iOS and Flutter.
 - 😄 Fun Facts: 
   - I adore music 🎵, Arabic Poetry and Books 📖 and sometimes I write Arabic poems too ✍️
@@ -52,6 +53,8 @@
    <div align="center"><img src="http://liu.edu.lb/lb/Web%20slices/Logo2.png" height="20%" width="20%"></img><div>
   
 ## Experience
+  
+- Currently open for job as an iOS Engineer.
   
 - 👨‍💻 **Mobile Software Engineer**
   
