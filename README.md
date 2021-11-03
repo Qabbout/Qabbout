@@ -165,6 +165,8 @@
   
   ##
   
+  - **Programming Foundations: Object-Oriented Design** / 2021 - Present
+  
   - **iOS Development: Architecture** / 2021 - Present
   
   - **Communicating Across Cultures** / 2021 - Present
