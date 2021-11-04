@@ -165,6 +165,8 @@
   
   ##
   
+  - **Programming Foundations: Secure Coding** / 2021 - Present
+  
   - **Programming Foundations: Design Patterns** / 2021 - Present
   
   - **Programming Foundations: Software Testing/QA** / 2021 - Present
