@@ -50,7 +50,7 @@
   
   📍 Lebanese International University - Dahr El Ein, Lebanon
   
-   <div align="center"><img src="http://liu.edu.lb/lb/Web%20slices/Logo2.png" height="20%" width="20%"></img><div>
+   <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Lebanese_Internation_University.png" height="20%" width="20%"></img><div>
   
 ## Experience
   
