@@ -54,7 +54,7 @@
   
 ## Experience
   
-- **Currently open for job as an iOS Engineer.**
+- **Currently looking for job**
   
 - 👨‍💻 **Mobile Software Engineer**
   
