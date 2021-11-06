@@ -58,7 +58,7 @@
   
 - 👨‍💻 **Mobile Software Engineer**
   
-  📆 2020 - Nov 2021
+  📆 Oct 2020 - Nov 2021
   
   📍 Tecware International - Tripoli, Lebanon
   
@@ -68,7 +68,7 @@
 
 - 📑 **Head of Information Technology**
   
-  📆 2018 - 2020
+  📆 Dec 2018 - Jan 2020
   
   📍 Lebanese Red Cross - Tripoli, Lebanon
   
