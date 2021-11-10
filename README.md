@@ -165,6 +165,8 @@
   
   ##
   
+  - **Developing Assertive Leadership** / 2021 - Present
+  
   - **Leading with Emotional Intelligence** / 2021 - Present
   
   - **Programming Foundations: Secure Coding** / 2021 - Present
