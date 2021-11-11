@@ -165,6 +165,8 @@
   
   ##
   
+  - **Learning Agility** / 2021 - Present
+  
   - **Developing a Learning Mindset** / 2021 - Present
   
   - **Developing Assertive Leadership** / 2021 - Present
