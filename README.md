@@ -165,6 +165,8 @@
   
   ##
   
+  - **SwiftUI Essential Training** / 2021 - Present
+  
   - **Creating Great First Impressions** / 2021 - Present
   
   - **Learning Agility** / 2021 - Present
