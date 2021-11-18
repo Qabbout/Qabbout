@@ -165,6 +165,8 @@
   
   ##
   
+  - **iOS App Development: RESTful Web Services** / 2021 - Present
+  
   - **SwiftUI Essential Training** / 2021 - Present
   
   - **Creating Great First Impressions** / 2021 - Present
