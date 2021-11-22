@@ -165,6 +165,8 @@
   
   ##
   
+  - **Learning Combine with Swift** / 2021 - Present
+  
   - **iOS App Development: RESTful Web Services** / 2021 - Present
   
   - **SwiftUI Essential Training** / 2021 - Present
