@@ -23,8 +23,8 @@
 
 - 👨‍💻 22.
 - 👨‍🎓 BS degree with distinction in Computer Science.
-- 🎱 I develope native iOS, Android and cross platform applications.
-- 👀 **Currently looking for job as an iOS Engineer or Product Manager.** Feel free to [email me](mailto:abdulrahman.qabbout@gmail.com).
+- 🎱 I develop native iOS, Android, and cross-platform applications.
+- 👀 **Currently looking for a job as an iOS Engineer or Product Manager.** Feel free to [email me](mailto:abdulrahman.qabbout@gmail.com).
 - 🌱 Learning all about mobile development, mainly iOS and Flutter.
 - 😄 Fun Facts: 
   - I adore music 🎵, Arabic Poetry and Books 📖 and sometimes I write Arabic poems too ✍️
@@ -165,6 +165,8 @@
   
   ##
   
+  - **Practical Design Patterns in Swift** / 2021 - Present
+
   - **Learning Combine with Swift** / 2021 - Present
   
   - **iOS App Development: RESTful Web Services** / 2021 - Present
@@ -307,8 +309,8 @@
   
   - Reading Books, Preferably Psychological Ones
   - Collecting Books
-  - Aquiring New Skills and Learning New Stuffs
-  - Learning Languages, Like Japanese, Russian, Spanish..
+  - Acquiring New Skills and Learning New Stuffs
+  - Learning Languages, Like Japanese, Russian, Spanish...
   - Watching Anime and Reading Manga
   - Writing Poems in Arabic
     
