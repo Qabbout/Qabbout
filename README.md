@@ -310,7 +310,7 @@
   - Reading Books, Preferably Psychological Ones
   - Collecting Books
   - Acquiring New Skills and Learning New Stuffs
-  - Learning Languages, Like Japanese, Russian, Spanish...
+  - Learning Languages, Like Japanese, Chinese, Russian...
   - Watching Anime and Reading Manga
   - Writing Poems in Arabic
     
