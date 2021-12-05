@@ -165,6 +165,8 @@
   
   ##
   
+  - **Learning iOS Animations with UIKit** / 2021 - Present
+  
   - **iOS App Development: Test-Driven Development** / 2021 - Present
   
   - **iOS Development: Auto Layout Programmatically** / 2021 - Present
