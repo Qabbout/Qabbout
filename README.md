@@ -165,6 +165,8 @@
   
   ##
   
+  - **Communicating with Confidence** / 2021 - Present
+  
   - **Learning iOS Animations with UIKit** / 2021 - Present
   
   - **iOS App Development: Test-Driven Development** / 2021 - Present
