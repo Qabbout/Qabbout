@@ -165,7 +165,7 @@
   
   ##
   
-  - **Developing Your Emotional Intelligence / 2021 - Present
+  - **Developing Your Emotional Intelligence** / 2021 - Present
   
   - **Communicating with Confidence** / 2021 - Present
   
