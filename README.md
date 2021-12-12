@@ -165,6 +165,8 @@
   
   ##
   
+  - **Developing Your Emotional Intelligence / 2021 - Present
+  
   - **Communicating with Confidence** / 2021 - Present
   
   - **Learning iOS Animations with UIKit** / 2021 - Present
