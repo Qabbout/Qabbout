@@ -164,6 +164,7 @@
   <div align="center"><img src="https://theme.zdassets.com/theme_assets/215697/67a5dadc8b67a5629ff02414169545a068fb40ba.png" height="35%" width="35%"></img><div>
   
   ##
+  - **Embracing Unexpected Change** / 2021 - Present
   
   - **Developing Your Emotional Intelligence** / 2021 - Present
   
