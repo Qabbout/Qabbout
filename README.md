@@ -21,7 +21,7 @@
 
 #### BIO
 
-- 👨‍💻 22.
+- 👨‍💻 23.
 - 👨‍🎓 BS degree with distinction in Computer Science.
 - 🎱 I develop native iOS, Android, and cross-platform applications.
 - 👀 **Currently looking for a job as an iOS Engineer or Product Manager.** Feel free to [email me](mailto:abdulrahman.qabbout@gmail.com).
