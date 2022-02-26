@@ -23,7 +23,7 @@
 
 - 👨‍💻 23.
 - 👨‍🎓 BS degree with distinction in Computer Science.
-- 🎱 I develop native iOS, Android, and cross-platform applications.
+- 🎱 I develop native iOS and cross-platforms applications.
 - 👀 **Currently looking for a job as an iOS Engineer or Product Manager.** Feel free to [email me](mailto:abdulrahman.qabbout@gmail.com).
 - 🌱 Learning all about mobile development, mainly iOS and Flutter.
 - 😄 Fun Facts: 
@@ -44,7 +44,7 @@
 
 ## Education
   
-- 📖 **BS Degree in Computer Science** - GPA 3.65
+- 📖 **BS Degree with Distinction in Computer Science** - GPA 3.65
   
   📆 2017 - 2020
   
