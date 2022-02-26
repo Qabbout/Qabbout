@@ -300,6 +300,8 @@
   <div align="center"><img src="https://www.freelogovectors.net/wp-content/uploads/2021/08/udemylogo-freelogovectors.net_.png" height="25%" width="25%"></img><div>
   
   ##
+  
+  - **Psychological First-Aid and Self-Care** / 2022 - Present
     
   - **Mission Leader** / 2020 - Present
   
@@ -320,7 +322,7 @@
   
   - Reading Books, Preferably Psychological Ones
   - Collecting Books
-  - Acquiring New Skills and Learning New Stuffs
+  - Acquiring New Skills and Learning New Stuff
   - Learning Languages, Like Japanese, Chinese, Russian...
   - Watching Anime and Reading Manga
   - Writing Poems in Arabic
