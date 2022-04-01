@@ -62,7 +62,7 @@
   
   📍 Tecware International - Tripoli, Lebanon
   
-   <div align="center"><img src="https://tecware.org/templates/ezwebhosting/images/s5_logo.png" height="10%" width="10%"></img><div>
+   <div align="center"><img src="https://user-images.githubusercontent.com/60781548/161316487-25fb70cb-ae9d-4b93-8fb7-a6ab0c3da7e5.png" height="10%" width="10%"></img><div>
   
   ##
 
