@@ -24,7 +24,7 @@
 - 👨‍💻 23.
 - 👨‍🎓 BS degree with distinction in Computer Science.
 - 🎱 I develop native iOS and cross-platforms applications.
-- 👀 **Currently looking for a job as an iOS Engineer or Product Manager.** Feel free to [email me](mailto:abdulrahman.qabbout@gmail.com).
+- 🍎 iOS Developer at Eurisko Mobility. Feel free to [email me](mailto:abdulrahman.qabbout@gmail.com).
 - 🌱 Learning all about mobile development, mainly iOS and Flutter.
 - 😄 Fun Facts: 
   - I adore music 🎵, Arabic Poetry and Books 📖 and sometimes I write Arabic poems too ✍️
@@ -54,7 +54,15 @@
   
 ## Experience
   
-- **Currently looking for job**
+- 👨‍💻 **iOS Developer**
+  
+  📆 April 2022 - Present
+  
+  📍 Eurisko Mobility - Adma, Lebanon
+  
+   <div align="center"><img src="https://clutchco-static.s3.amazonaws.com/s3fs-public/logos/mobility-logo.png?VersionId=te3t_AVqY_pe31fajvMLlgmcxv_my4jY" height="10%" width="10%"></img><div>
+  
+  ##
   
 - 👨‍💻 **Mobile Software Engineer**
   
@@ -273,6 +281,8 @@
   
   ##
   
+  - **iOS & Swift - The Complete iOS App Development Bootcamp ** / 60.5 hours / 2022 - Present
+  
   - **Clean Code** / 6.5 total hours / 2021 - Present
   
   - **Body Language: Appear Confident and Poised When You Speak** / 1 total hours / 2021 - Present
@@ -285,7 +295,7 @@
   
   - **Dart: Beginners Course** / 2 total hours / 2021 - Present
   
-  - **Flutter: Advanced Course** / 5 total hours /2021 - Present
+  - **Flutter: Advanced Course** / 5 total hours / 2021 - Present
   
   - **Flutter: Intermediate Course** / 3.5 total hours / 2021 - Present
   
