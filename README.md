@@ -21,10 +21,10 @@
 
 #### BIO
 
-- 👨‍💻 23.
+- 👨‍💻 25.
 - 👨‍🎓 BS degree with distinction in Computer Science.
 - 🎱 I develop native iOS and cross-platforms applications.
-- 🍎 iOS Developer at Eurisko Mobility. Feel free to [email me](mailto:abdulrahman.qabbout@gmail.com).
+- 🍎 Software / iOS Developer at Eurisko Mobility. Feel free to [email me](mailto:abdulrahman.qabbout@gmail.com).
 - 🌱 Learning all about mobile development, mainly iOS and Flutter.
 - 😄 Fun Facts: 
   - I adore music 🎵, Arabic Poetry and Books 📖 and sometimes I write Arabic poems too ✍️
@@ -54,7 +54,7 @@
   
 ## Experience
   
-- 👨‍💻 **iOS Developer**
+- 👨‍💻 **Software / iOS Developer**
   
   📆 April 2022 - Present
   
